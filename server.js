@@ -1,0 +1,1 @@
+const express=require('express');const app=express();app.get('/api/health',(q,r)=>r.json({ok:true}));app.listen(process.env.PORT||3000,'0.0.0.0');
