@@ -58,3 +58,5 @@ BILLING_ENDS_AT=2026-10-18T00:00:00Z
 - آپلودها filename/path traversal را رد می‌کنند.
 - اجرای shell روی OS عمداً در پنل وجود ندارد؛ فقط دستور Minecraft ارسال می‌شود.
 - قبل از Restore یا تغییر اساسی version/type بکاپ بگیر.
+
+<!-- deploy trigger 2026-09-18 -->
